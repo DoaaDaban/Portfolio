@@ -116,8 +116,8 @@ class Profile extends React.Component {
                           <span className="description">Photos</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">5</span>
+                          <span className="description">Projects</span>
                         </div>
                       </div>
                     </Col>
