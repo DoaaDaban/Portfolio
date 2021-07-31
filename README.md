@@ -215,10 +215,26 @@ We use GitHub Issues as the official bug tracker for the Argon Design System Rea
 
 ### Social Media
 
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
+Github:   <https://github.com/DoaaDaban>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
+Portfolio: <https://doaa-daban.netlify.app/1>
 
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
+LinkedIn: <https://www.linkedin.com/in/doa-a-daban-3ab6941b4>
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+Facebook: <https://www.facebook.com/doaa.daban/>
+
+Instagram: <https://www.instagram.com/doaa.daban/>
+
+My Website: <https://doaa-daban.netlify.app>
+
+<hr>
+
+Number and name of feature: _____________create My Portfolio___________________
+
+Estimate of time needed to complete: __1h___
+
+Start time: __1pm Thursday___
+
+Finish time: _____
+
+Actual time needed to complete: _____
