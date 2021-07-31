@@ -125,7 +125,7 @@ class Profile extends React.Component {
                   <div className="text-center mt-5">
                     <h3>
                       Doa'a Daban{" "}
-                      <span className="font-weight-light">, 27</span>
+                      <span className="font-weight-light">, 28</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
@@ -145,7 +145,7 @@ class Profile extends React.Component {
                       <Col lg="9">
                         <p>
                         
-                          A Computer Enginner, graduated from The university of Jordan with Bachelor's degree,
+                          A Computer Engineer, graduated from The university of Jordan with Bachelor's degree,
                           And now one of my goals is to develop my tech skills and become a professional software developer since it's from the most important industies this time worldwide.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
