@@ -79,15 +79,13 @@ class Landing extends React.Component {
               <Container className="py-lg-md d-flex">
                 <div className="col px-0">
                   <Row>
-                    <Col lg="6">
+                    <Col lg="8">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                        OBJECTIVE
+                        {/* <span>completed with examples</span> */}
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      Work in the field of Software Development with an organization that provides excellent working environments and opportunities. This position will enable me to apply my knowledge and skills and contribute to the development.
                       </p>
                       {/* <div className="btn-wrapper">
                         <Button
@@ -169,7 +167,9 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="primary"
                             href="https://201jostainable.netlify.app/"
-                            onClick={e => e.preventDefault()}
+                            // onClick={e => e.preventDefault()}
+                            target="_blank"
+
                           >
                             Learn more
                           </Button>
@@ -186,9 +186,7 @@ class Landing extends React.Component {
                             301 project
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                           In progress.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -222,9 +220,7 @@ class Landing extends React.Component {
                             401 project
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                           Coming soon.
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
@@ -253,8 +249,8 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section>
-          <section className="section section-lg">
-            <Container>
+          {/* <section className="section section-lg"> */}
+            {/* <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-md-2" md="6">
                   <img
@@ -267,16 +263,16 @@ class Landing extends React.Component {
                   <div className="pr-md-5">
                     <div className="icon icon-lg icon-shape icon-shape-success shadow rounded-circle mb-5">
                       <i className="ni ni-settings-gear-65" />
-                    </div>
-                    <h3>My Background</h3>
+                    </div> */}
+                    {/* <h3>My Background</h3>
                     <p>
 
                       I've been graduated from The university of Jordan with Bachelor's degree in Computer Engineering collage.
                       I have an experience in Network Engineering  and security since i took a CCNA certificate and working with some companies here in Amman.
                       And now one of my goals is to develop my tech skills and become a professional software developer since it's from the most important industies this time worldwide.
                     
-                    </p>
-                    <ul className="list-unstyled mt-5">
+                    </p> */}
+                    {/* <ul className="list-unstyled mt-5">
                       <li className="py-2">
                         <div className="d-flex align-items-center">
                           <div>
@@ -328,11 +324,11 @@ class Landing extends React.Component {
                       </li>
                     </ul>
                   </div>
-                </Col>
-              </Row>
+                </Col> */}
+              {/* </Row>
             </Container>
-          </section>
-          <section className="section bg-secondary">
+          </section> */}
+          {/* <section className="section bg-secondary"> */}
             {/* <Container>
               <Row className="row-grid align-items-center">
                 <Col md="6">
@@ -402,8 +398,8 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container> */}
-          </section>
-          <section className="section pb-0 bg-gradient-warning">
+          {/* </section> */}
+          {/* <section className="section pb-0 bg-gradient-warning"> */}
             {/* <Container>
               <Row className="row-grid align-items-center">
                 <Col className="order-lg-2 ml-lg-auto" md="6">
@@ -491,7 +487,7 @@ class Landing extends React.Component {
               </Row>
             </Container> */}
             {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew zindex-100">
+            {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -506,8 +502,8 @@ class Landing extends React.Component {
                 />
               </svg>
             </div>
-          </section>
-          <section className="section section-lg">
+          </section> */}
+          {/* <section className="section section-lg"> */}
             {/* <Container>
               <Row className="justify-content-center text-center mb-lg">
                 <Col lg="8">
@@ -692,9 +688,9 @@ class Landing extends React.Component {
                 </Col>
               </Row>
             </Container> */}
-          </section>
-          <section className="section section-lg pt-0">
-            <Container>
+          {/* </section> */}
+          {/* <section className="section section-lg pt-0"> */}
+            {/* <Container>
               <Card className="bg-gradient-warning shadow-lg border-0">
                 <div className="p-5">
                   <Row className="align-items-center">
@@ -722,10 +718,10 @@ class Landing extends React.Component {
                   </Row>
                 </div>
               </Card>
-            </Container>
-          </section>
-          <section className="section section-lg bg-gradient-default">
-            <Container className="pt-lg pb-300">
+            </Container> */}
+          {/* </section> */}
+          {/* <section className="section section-lg bg-gradient-default"> */}
+            {/* <Container className="pt-lg pb-300">
               <Row className="text-center justify-content-center">
                 <Col lg="10">
                   <h2 className="display-3 text-white">Build something</h2>
@@ -769,9 +765,9 @@ class Landing extends React.Component {
                   </p>
                 </Col>
               </Row>
-            </Container>
+            </Container> */}
             {/* SVG separator */}
-            <div className="separator separator-bottom separator-skew zindex-100">
+            {/* <div className="separator separator-bottom separator-skew zindex-100">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 preserveAspectRatio="none"
@@ -786,9 +782,9 @@ class Landing extends React.Component {
                 />
               </svg>
             </div>
-          </section>
-          <section className="section section-lg pt-lg-0 section-contact-us">
-            <Container>
+          </section> */}
+          {/* <section className="section section-lg pt-lg-0 section-contact-us"> */}
+            {/* <Container>
               <Row className="justify-content-center mt--300">
                 <Col lg="8">
                   <Card className="bg-gradient-secondary shadow">
@@ -860,11 +856,11 @@ class Landing extends React.Component {
                   </Card>
                 </Col>
               </Row>
-            </Container>
-          </section>
-          <Download />
+            </Container> */}
+          {/* </section> */}
+          {/* <Download /> */}
         </main>
-        <CardsFooter />
+        {/* <CardsFooter /> */}
       </>
     );
   }
